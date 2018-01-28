@@ -1,2 +1,4 @@
 # hello-world
-Bot of Telegram
+Escort Bot of Telegram
+PlayBot is a future of escort on the planet
+=)
